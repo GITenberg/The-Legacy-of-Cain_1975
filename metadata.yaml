@@ -1,0 +1,37 @@
+_repo: The-Legacy-of-Cain_1975
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: 'Are our morals imbued in us through teaching and example, or do we come
+  into this world with our personality and values written in our genes? The Legacy
+  of Cain is novelist Wilkie Collins'' engrossing take on the age-old nature-or-nurture
+  question. When a woman sentenced to death begs a man of the cloth to care for her
+  soon-to-be-orphaned child, the situation presents itself as a profound conundrum:
+  is the offspring inevitably doomed to repeat the sins and transgressions of its
+  ...'
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1975'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Children of women prisoners -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Romantic suspense fiction'
+- !lcsh 'Adopted children -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+- GITenberg
+title: The Legacy of Cain
+url: http://www.gutenberg.org/ebooks/1975
