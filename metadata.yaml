@@ -1,5 +1,8 @@
 _repo: The-Legacy-of-Cain_1975
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -16,6 +19,8 @@ description: 'Are our morals imbued in us through teaching and example, or do we
   soon-to-be-orphaned child, the situation presents itself as a profound conundrum:
   is the offspring inevitably doomed to repeat the sins and transgressions of its
   ...'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1975#The-Legacy-of-Cain
 gutenberg_issued: '1999-11-01'
 gutenberg_type: Text
 identifiers:
